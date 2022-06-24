@@ -1,0 +1,13 @@
+name: visnetShiny
+title: visnetShiny
+username:
+account: fcarazo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4432251
+bundleId: 6040243
+url: https://fcarazo.shinyapps.io/visnetShiny/
+when: 1656086936.15059
+lastSyncTime: 1656086936.15059
+asMultiple: FALSE
+asStatic: FALSE
